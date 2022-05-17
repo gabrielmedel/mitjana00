@@ -25,4 +25,7 @@ int main() {
 	return 0;
 	printf("Operació finalitzada amb èxit\n");
 	return(0);
+
+	printf("Operació finalitzada amb èxit\n");
+	return (0);
 }
